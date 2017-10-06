@@ -1,0 +1,27 @@
+* {
+	margin : 0;
+	padding : 0;
+	box-sizing: border-box;
+}
+
+.invisible {
+	display: none;
+}
+
+.visible{
+	display: block;
+}
+
+body {
+		font-family: 'Roboto', sans-serif;
+		font-size: 300;
+}
+
+h2 {
+
+}
+
+.postit {
+	border: 1px solid #000;
+	
+}
